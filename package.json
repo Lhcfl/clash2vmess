@@ -1,0 +1,23 @@
+{
+  "name": "clash2vmess",
+  "version": "1.0.0",
+  "description": "clash2vmess",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lhcfl/clash2vmess.git"
+  },
+  "author": "Lhcfl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lhcfl/clash2vmess/issues"
+  },
+  "homepage": "https://github.com/Lhcfl/clash2vmess#readme",
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}
