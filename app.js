@@ -138,7 +138,7 @@ if (process.argv[2] == "-c") {
                 translate_config["ws-opts"] = {
                     path: config.path,
                     headers: {
-                        Host: config.host
+                        Host: config.host,
                     }
                 }
             }

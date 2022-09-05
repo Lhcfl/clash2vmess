@@ -1,6 +1,6 @@
 {
   "name": "clash2vmess",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "clash2vmess",
   "main": "app.js",
   "scripts": {
